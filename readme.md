@@ -1,6 +1,6 @@
 == readme.md
 
-This document is for the alphanums python package.
+This document is for the alphanums python tool.
 
 * With it, you can generate alphanumeric strings that turn into evenly spaced images inside a PNG file.
 
